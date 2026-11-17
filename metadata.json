@@ -1,0 +1,6 @@
+{
+  "name": "GoNagal",
+  "description": "Multi-category, multi-vendor e-commerce marketplace for GoNagal",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
